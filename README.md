@@ -89,7 +89,6 @@ ch = 1;
 
 ## OUTPUT
 
-![image](https://github.com/Sudhindev/Experiment-2/assets/130021386/41b84ba1-6069-4224-92d2-88737436024e)
 ![image](https://github.com/Sudhindev/Experiment-2/assets/130021386/aaa24406-008d-4f75-8ad9-6ff15f79d3d6)
 ![image](https://github.com/Sudhindev/Experiment-2/assets/130021386/914baf8e-6f73-49bc-8dd1-9c7e5606efb2)
 ![image](https://github.com/Sudhindev/Experiment-2/assets/130021386/7ca29649-5193-48fc-91db-53c735c57085)
