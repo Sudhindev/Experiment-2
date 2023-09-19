@@ -21,7 +21,6 @@ Program to print the text “GUIcomponent”.
 Developed by: Sudhindev S
 Registeration Number : 212221040166
 */
-```
 activity_main.xml
 <?xml version="1.0" encoding="utf-8"?> <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" tools:context=".MainActivity">
 <TextView
@@ -38,10 +37,8 @@ android:text="Change color" android:textSize="25sp" app:layout_constraintBottom_
 package com.example.ex2;
 import androidx.appcompat.app.AppCompatActivity; import android.graphics.Color;
 import android.os.Bundle;
-https://g i thub.com/Anuayshh/GU I- C omponents
-2/7
 
-8/30/23, 9:04 AM Anuayshh/GUI-Components
+
  import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -86,6 +83,7 @@ ch = 1;
 }
 });
 }}
+```
 
 ## OUTPUT
 
